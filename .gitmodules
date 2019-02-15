@@ -126,3 +126,7 @@
 	path = home/cl-fad
 	url = https://github.com/froggey/cl-fad.git
 	branch = mezzano-port
+[submodule "home/iterate"]
+	path = home/iterate
+	url = https://github.com:BusFactor1/iterate-1.5.git
+	branch = mezzano-port
